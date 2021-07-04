@@ -1,5 +1,5 @@
 This project is an example of how to add SonarQube quality gates to
-a Jenkins build using the SonarQube Scanner Jenkins plugin.
+a Jenkins Build using the SonarQube Scanner Jenkins plugin.
 
 For a full walkthrough, see the [accompanying article](https://tomgregory.com/sonarqube-quality-gates-in-jenkins-build-pipeline).
 
@@ -23,3 +23,5 @@ Once that's setup, try running the two pipeline jobs:
 
 1. A job that runs against a codebase with good code (expect to pass)
 1. A job that runs against a codebase with bad code (expect to fail)
+
+####END###
